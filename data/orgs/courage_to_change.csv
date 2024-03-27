@@ -1,0 +1,16 @@
+ELECTION,OFFICECD,RECIPID,CANCLASS,RECIPNAME,COMMITTEE,FILING,SCHEDULE,PAGENO,SEQUENCENO,REFNO,DATE,REFUNDDATE,NAME,C_CODE,STRNO,STRNAME,APARTMENT,BOROUGHCD,CITY,STATE,ZIP,OCCUPATION,EMPNAME,EMPSTRNO,EMPSTRNAME,EMPCITY,EMPSTATE,AMNT,MATCHAMNT,PREVAMNT,PAY_METHOD,INTERMNO,INTERMNAME,INTSTRNO,INTSTRNM,INTAPTNO,INTCITY,INTST,INTZIP,INTEMPNAME,INTEMPSTNO,INTEMPSTNM,INTEMPCITY,INTEMPST,INTOCCUPA,PURPOSECD,EXEMPTCD,ADJTYPECD,RR_IND,SEG_IND,INT_C_CODE
+2021,55,2254,P,"Adams, Elizabeth",H,9,D,,,R0004745,6/5/2021,,Courage to Change,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+2021,55,2420,P,"Clennon, Joshua",H,10,D,,,R0001819,6/10/2021,,Courage to Change,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+2021,55,2436,P,"Caban, Tiffany",H,13,D,,,R0010205,6/5/2021,,COurage to Change NY,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+2021,33,1164,P,"Lander, Brad",L,9,D,,,R0055672,6/5/2021,,Courage to Change NY State,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+2021,55,2306,P,"Aviles, Alexa",H,9,D,,,R0006828,6/5/2021,,Courage to Change NY State,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+2021,55,2309,P,"Ordonez, Maria",H,9,D,,,R0004202,6/5/2021,,Courage to Change NY State,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+2021,55,2332,P,"Hantzopoulos, Evie",H,9,D,,,R0006016,6/5/2021,,Courage to Change NY State,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+2021,55,2345,P,"Camarena, Rodrigo",H,9,D,,,R0003818,6/5/2021,,Courage to Change NY State,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+2021,55,2365,P,"Fitzpatrick, Phelan-Dante",H,9,D,,,R0002257,6/5/2021,,Courage to Change NY State,PCOMP,,,,Z,Washington,DC,20004,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,PROFL,,,N,,
+2021,55,2377,P,"Hollingsworth, Michael D",H,10,D,,,R0008235,6/5/2021,,Courage to Change NYC,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,INTER,,,N,,
+2021,55,2252,P,"West, Brandon",H,10,D,,,R0007558,6/5/2021,,Courage to Change PAC,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+2021,55,2275,P,"Krebs, Justin M",H,10,D,,,R0002468,6/7/2021,,Courage to Change PAC,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+2021,55,2349,P,"De La Rosa, Carmen N",H,10,D,,,R0004304,6/10/2021,,Courage to Change PAC,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+2021,55,2505,P,"Bagga, Amit S",H,10,D,,,R0003450,6/5/2021,,Courage to Change PAC,PCOMP,,,,Q,Corona,NY,11368,,,,,,,321.00,0.00,0.00,0,,,,,,,,,,,,,,,OTHER,,,N,,
+

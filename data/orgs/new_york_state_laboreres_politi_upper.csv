@@ -1,0 +1,15 @@
+ELECTION,OFFICECD,RECIPID,CANCLASS,RECIPNAME,COMMITTEE,FILING,SCHEDULE,PAGENO,SEQUENCENO,REFNO,DATE,REFUNDDATE,NAME,C_CODE,STRNO,STRNAME,APARTMENT,BOROUGHCD,CITY,STATE,ZIP,OCCUPATION,EMPNAME,EMPSTRNO,EMPSTRNAME,EMPCITY,EMPSTATE,AMNT,MATCHAMNT,PREVAMNT,PAY_METHOD,INTERMNO,INTERMNAME,INTSTRNO,INTSTRNM,INTAPTNO,INTCITY,INTST,INTZIP,INTEMPNAME,INTEMPSTNO,INTEMPSTNM,INTEMPCITY,INTEMPST,INTOCCUPA,PURPOSECD,EXEMPTCD,ADJTYPECD,RR_IND,SEG_IND,INT_C_CODE
+2021,44,1550,P,"Reynoso, Antonio",K,14,ABC,,,R0014977,10/28/2021,,New York State Laborers Politi,PCOMP,,,,Z,Albany,NY,12211,,,,,,,1000.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,55,1695,P,"Shafran, Austin",I,10,ABC,,,R0004259,6/10/2021,,NEW YORK STATE LABORERS POLITI,PCOMP,,,,Z,Albany,NY,12211,,,,,,,1000.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,55,1892,P,"Borelli, Joseph",N,8,ABC,,,R0006047,3/29/2021,,New York State Laborers Politi,PCOMP,,,,Z,Albany,NY,12211,,,,,,,1000.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,5,1930,P,"Rivera, Carlina",J,8,ABC,,,R0004320,4/1/2021,,NEW YORK STATE LABORERS POLITI,PCOMP,,,,Z,Albany,NY,12211,,,,,,,1000.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,5,1938,NP,"Powers, Keith",J,8,ABC,,,R0006153,3/21/2021,,New York State Laborers Politi,PCOMP,,,,Z,Albany,NY,12211,,,,,,,1000.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,55,2270,P,"Lamorte, Rebecca",H,5,ABC,,,R0000358,1/27/2020,,New York State Laborers Politi,PCOMP,,,,Z,Albany,NY,12211,,,,,,,1000.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,55,2376,P,"Aronov, David",H,10,ABC,,,R0002862,5/31/2021,,New York State Laborers Politi,PCOMP,,,,Z,Albany,NY,12211,,,,,,,1000.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,55,2377,P,"Hollingsworth, Michael D",H,9,ABC,,,R0007953,5/26/2021,,New York State Laborers Politi,PCOMP,,,,Z,Albany,NY,12211,,,,,,,1000.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,55,2380,P,"Won, Julie",H,14,ABC,,,R0005372,10/29/2021,,New York State Laborers Politi,PCOMP,,,,Z,Albany,NY,12211,,,,,,,500.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,55,2394,P,"Abreu, Adolfo",H,8,ABC,,,R0005409,4/5/2021,,New York State Laborers Politi,PCOMP,,,,Z,Albany,NY,12211,,,,,,,1000.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,55,2436,P,"Caban, Tiffany",H,8,ABC,,,R0008359,4/5/2021,,NEW YORK STATE LABORERS POLITI,PCOMP,,,,Z,Albany,NY,12211,,,,,,,1000.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,55,380,P,"Moya, Francisco P",K,4,ABC,,,R0003063,1/2/2020,,New York State Laborers Politi,PCOMP,,,,Z,Albany,NY,12211,,,,,,,2500.00,0.00,0.00,2,,,,,,,,,,,,,,,,,,N,N,
+2021,55,380,P,"Moya, Francisco P",K,7,M,,,R0004125,1/2/2020,2/11/2021,New York State Laborers Politi,PCOMP,,,,Z,Albany,NY,12211,,,,,,,-1500.00,0.00,0.00,0,,,,,,,,,,,,,,,,,2,N,N,
+
